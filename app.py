@@ -185,7 +185,7 @@ def data():
 
     try:
         image = requests.get(
-           "https://feof-upgrades-musical-progressive.trycloudflare.com/camera",
+           "https://immediately-become-resulting-com.trycloudflare.com/camera",
            timeout=5
         )
 
@@ -219,7 +219,7 @@ def data():
 
     sensor_data = requests.get(
 
-        "https://feof-upgrades-musical-progressive.trycloudflare.com/sensor"
+        "https://immediately-become-resulting-com.trycloudflare.com/sensor"
 
     ).json()
 

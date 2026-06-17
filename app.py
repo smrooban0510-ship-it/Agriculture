@@ -185,7 +185,7 @@ def data():
 
     try:
         image = requests.get(
-           "https://immediately-become-resulting-com.trycloudflare.com/camera",
+           "https://senator-cups-balanced-scuba.trycloudflare.com/camera",
            timeout=5
         )
 
@@ -219,7 +219,7 @@ def data():
 
     sensor_data = requests.get(
 
-        "https://immediately-become-resulting-com.trycloudflare.com/sensor"
+        "https://senator-cups-balanced-scuba.trycloudflare.com/sensor"
 
     ).json()
 
